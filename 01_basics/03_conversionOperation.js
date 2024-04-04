@@ -38,7 +38,7 @@ let negValue = -value
 // console.log(2*2);
 // console.log(2**3);
 // console.log(2/3);
-// console.log(2%3);
+// console.log(2%3); if the numerator is less than the denominator it returns numerator itself otherwise it returns remainder.
 
 let str1 = "hello"
 let str2 = " hitesh"
